@@ -15,3 +15,4 @@ def test_student_validation():
 if __name__ == "__main__":
     test_student_validation()
     print("All student validation tests passed!")
+print("Student validation feature updated")
